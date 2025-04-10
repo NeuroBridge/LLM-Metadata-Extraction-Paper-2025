@@ -1,0 +1,16 @@
+The uploaded paper may contain items from one or more of the following categories:
+
+- T1WeightedImaging - These are non-functional scans of the anatomy of the brain.
+- RestingStateImaging - These are functional MRI scans of the brain that do not involve a specific task or action to be done by the research subject/participant.
+- TaskParadigmImaging - This category is for functional MRI scans with a specific task to be completed by the subject during the scan.
+
+Please respond by producing a JSON response following the prototype given here:
+
+{
+    "paper": "PMC1111111"
+    "imaging_class": ["T1WeightedImaging", "RestingStateImaging", "TaskParadigmImaging"]
+}
+
+The PMC identifier for the paper may be in the filename or the PDF of the paper. The imaging class list should ONLY contain the imaging types actually included in the study read.
+
+You should only reply with JSON, nothing else.
