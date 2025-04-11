@@ -1,0 +1,74 @@
+Determine what types of subjects are used in the experiment described in the text block below. The following information should be determined for each subject group:
+
+1. The specific name given in the text for the subject group, if so provided (otherwise report "", the empty string);
+2. A short free-text description of the subject group, derived from the provided text block;
+3. The number of subjects in each group (expressed as an integer), this should take into account any subjects dropped for any reason;
+4. You MUST pick the SINGLE closest match for the subject group's description from this alphabetical list of 'cv_term':
+
+- AlcoholAbuse
+- AlcoholRelatedNeurodevelopmentalDisorder
+- AmphetamineAbuse
+- AmphetamineDependence
+- AnxietyDisorder
+- AttentionDeficitHyperactivityDisorder
+- AutismSpectrumDisorder
+- AutisticDisorder
+- BipolarDisorder
+- BriefIntermittentPsychoticSyndrome
+- CannabisAbuse
+- ChronicSchizophrenia
+- CocaineAbuse
+- ConductDisorder
+- Depression
+- DrugAbuse
+- DrugDependence
+- FirstEpisodePsychosis
+- GamingDisorder
+- HarmfulUseofKetamine
+- ImpulseControlDisorder
+- MajorDepressiveDisorder
+- MethamphetamineDependence
+- MoodDisorder
+- NeurodevelopmentalDisorder
+- NicotineAbuse
+- NoKnownDisorder
+- NondependentAlcoholAbuse
+- NondependentCannabisAbuse
+- ObsessiveCompulsiveDisorder
+- OpioidAbuse
+- Parkinsonism
+- PathologicalGambling
+- PolysubstanceAbuse
+- PolysubstanceDependence
+- PostTraumaticStressDisorder
+- PsychoticDisorder
+- SchizoaffectiveDisorder
+- Schizophrenia
+- StimulantDependence
+- SubstanceDisorder 
+
+You MUST choose exactly ONE (1) of the cv_term from the list above. No more, no less. Do NOT invent or create a new term that is not explicitly on this list. Please pay special attention to this requirement, my job depends on it.
+
+Use the JSON prototype below to format your reply, but there may be more (or fewer) than 2 groups which can be added (or removed) as appropriate to this example:
+
+JSON = """
+{
+  "SubjectGroups": [
+    {
+        "name_given": "",
+        "description": "",
+        "number":,
+        "cv_term": ""
+    },
+    {
+        "name_given": "",
+        "description": "",
+        "number":,
+        "cv_term": "" 
+    }
+  ]
+}
+"""
+
+The text block to be analyzed follows the delimiter:
+###
