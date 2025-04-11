@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "",
+      "description": "Individuals diagnosed with schizophrenia recruited from the Shanghai Mental Health Center.",
+      "number": 24,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "",
+      "description": "Healthy controls recruited from the local community.",
+      "number": 16,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

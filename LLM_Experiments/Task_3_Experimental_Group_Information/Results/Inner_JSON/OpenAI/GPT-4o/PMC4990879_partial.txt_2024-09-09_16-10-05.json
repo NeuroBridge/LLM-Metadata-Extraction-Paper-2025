@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "heroin relapsers",
+      "description": "MMT patients who relapsed into heroin use during the 12-month follow-up period.",
+      "number": 20,
+      "cv_term": "DrugDependence"
+    },
+    {
+      "name_given": "non-relapsers",
+      "description": "MMT patients who did not relapse into heroin use during the 12-month follow-up period.",
+      "number": 20,
+      "cv_term": "DrugDependence"
+    }
+  ]
+}

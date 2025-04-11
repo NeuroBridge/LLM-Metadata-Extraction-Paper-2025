@@ -1,0 +1,11 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "LBC1936",
+      "description": "A cohort of older adults from the Lothian Birth Cohort 1936, studied for brain and cognitive ageing.",
+      "number": 488,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

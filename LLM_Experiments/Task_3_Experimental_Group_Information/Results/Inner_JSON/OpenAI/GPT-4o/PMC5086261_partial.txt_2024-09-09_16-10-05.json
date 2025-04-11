@@ -1,0 +1,10 @@
+{
+  "SubjectGroups": [
+    {
+      "name_given": "",
+      "description": "Substance dependent individuals enrolled in community-based substance use treatment programs, diagnosed with alcohol, drug, or polysubstance dependence, aged 18-50, and 1-4 weeks abstinent at baseline.",
+      "number": 21,
+      "cv_term": "SubstanceDisorder"
+    }
+  ]
+}

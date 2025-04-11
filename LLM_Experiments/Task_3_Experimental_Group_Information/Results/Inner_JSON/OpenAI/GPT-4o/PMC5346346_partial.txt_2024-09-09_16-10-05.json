@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "smokers",
+      "description": "Non-treatment seeking smokers who participated in resting state BOLD fMRI data acquisition.",
+      "number": 66,
+      "cv_term": "NicotineAbuse"
+    },
+    {
+      "name_given": "nonsmokers",
+      "description": "Individuals who do not smoke and participated in resting state BOLD fMRI data acquisition.",
+      "number": 92,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

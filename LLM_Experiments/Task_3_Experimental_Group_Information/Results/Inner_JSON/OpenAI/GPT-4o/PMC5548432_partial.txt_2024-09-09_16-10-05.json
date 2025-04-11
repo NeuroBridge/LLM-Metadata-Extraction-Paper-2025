@@ -1,0 +1,11 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "",
+      "description": "Participants with cocaine-use disorders in a randomized clinical trial receiving cognitive behavioral therapy (CBT) and other treatments.",
+      "number": 26,
+      "cv_term": "CocaineAbuse"
+    }
+  ]
+}

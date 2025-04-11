@@ -1,0 +1,1 @@
+{"SubjectGroups": [{"name_given": "smokers", "description": "Participants who smoke more than 10 cigarettes per day for 5 years or longer, diagnosed based on DSM-IV, and tested by FTND.", "number": 14, "cv_term": "NicotineAbuse"}, {"name_given": "non-smoking controls", "description": "Healthy male participants who do not smoke.", "number": 11, "cv_term": "NoKnownDisorder"}]}

@@ -1,0 +1,16 @@
+{
+  "SubjectGroups": [
+    {
+      "name_given": "patients with schizophrenia",
+      "description": "Patients diagnosed with schizophrenia who underwent MRI scanning.",
+      "number": 48,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy control subjects",
+      "description": "Age- and gender-matched healthy individuals without schizophrenia.",
+      "number": 43,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

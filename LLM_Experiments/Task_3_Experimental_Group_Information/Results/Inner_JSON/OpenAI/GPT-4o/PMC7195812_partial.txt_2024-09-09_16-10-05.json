@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "BT",
+      "description": "Mothers receiving buprenorphine treatment for opioid use disorder",
+      "number": 7,
+      "cv_term": "OpioidAbuse"
+    },
+    {
+      "name_given": "CG",
+      "description": "Mothers with no opioid or other substance use or any psychotropic medications",
+      "number": 25,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

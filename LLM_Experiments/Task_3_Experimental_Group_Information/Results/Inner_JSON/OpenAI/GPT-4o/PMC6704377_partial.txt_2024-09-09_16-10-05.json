@@ -1,0 +1,23 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "TRS",
+      "description": "Patients with treatment resistant schizophrenia, characterized by persistent psychotic symptoms despite adequate treatment.",
+      "number": 21,
+      "cv_term": "ChronicSchizophrenia"
+    },
+    {
+      "name_given": "NTR",
+      "description": "Patients with non-treatment resistant schizophrenia, in symptomatic remission with stable symptoms.",
+      "number": 21,
+      "cv_term": "ChronicSchizophrenia"
+    },
+    {
+      "name_given": "HC",
+      "description": "Healthy controls with no history of psychiatric illness or first-degree relatives with psychotic illness.",
+      "number": 24,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

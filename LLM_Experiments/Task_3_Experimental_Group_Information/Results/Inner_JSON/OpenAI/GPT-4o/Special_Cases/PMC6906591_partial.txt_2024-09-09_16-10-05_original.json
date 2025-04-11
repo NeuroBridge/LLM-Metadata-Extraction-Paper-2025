@@ -1,0 +1,154 @@
+{
+  "SubjectGroups": [
+    {
+      "name_given": "patients with schizophrenia",
+      "description": "Patients diagnosed with schizophrenia who underwent MRI scanning.",
+      "number": 48,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy control subjects",
+      "description": "Age- and gender-matched healthy individuals without schizophrenia.",
+      "number": 43,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with schizophrenia (validation dataset 1)",
+      "description": "Patients diagnosed with schizophrenia from the first validation dataset.",
+      "number": 40,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy controls (validation dataset 1)",
+      "description": "Healthy individuals without schizophrenia from the first validation dataset.",
+      "number": 37,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with schizophrenia (validation dataset 2)",
+      "description": "Patients diagnosed with schizophrenia from the second validation dataset.",
+      "number": 30,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy controls (validation dataset 2)",
+      "description": "Healthy individuals without schizophrenia from the second validation dataset.",
+      "number": 33,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with schizophrenia (SCZcobre dataset)",
+      "description": "Patients diagnosed with schizophrenia from the SCZcobre dataset.",
+      "number": 65,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy controls (SCZcobre dataset)",
+      "description": "Healthy individuals without schizophrenia from the SCZcobre dataset.",
+      "number": 75,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with major depressive disorder",
+      "description": "Patients diagnosed with major depressive disorder.",
+      "number": 211,
+      "cv_term": "MajorDepressiveDisorder"
+    },
+    {
+      "name_given": "healthy controls (MDD)",
+      "description": "Healthy individuals without major depressive disorder.",
+      "number": 476,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with obsessive-compulsive disorder",
+      "description": "Patients diagnosed with obsessive-compulsive disorder.",
+      "number": 36,
+      "cv_term": "ObsessiveCompulsiveDisorder"
+    },
+    {
+      "name_given": "healthy controls (OCD)",
+      "description": "Healthy individuals without obsessive-compulsive disorder.",
+      "number": 42,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with bipolar disorder",
+      "description": "Patients diagnosed with bipolar disorder.",
+      "number": 147,
+      "cv_term": "BipolarDisorder"
+    },
+    {
+      "name_given": "healthy controls (bipolar disorder)",
+      "description": "Healthy individuals without bipolar disorder.",
+      "number": 477,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with autism spectrum disorder",
+      "description": "Patients diagnosed with autism spectrum disorder.",
+      "number": 73,
+      "cv_term": "AutismSpectrumDisorder"
+    },
+    {
+      "name_given": "healthy controls (ASD)",
+      "description": "Healthy individuals without autism spectrum disorder.",
+      "number": 64,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with behavioural variant frontotemporal dementia",
+      "description": "Patients diagnosed with behavioural variant frontotemporal dementia.",
+      "number": 20,
+      "cv_term": "NeurodevelopmentalDisorder"
+    },
+    {
+      "name_given": "healthy controls (bvFTD)",
+      "description": "Healthy individuals without behavioural variant frontotemporal dementia.",
+      "number": 20,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with Alzheimer's disease",
+      "description": "Patients diagnosed with Alzheimer's disease.",
+      "number": 20,
+      "cv_term": "NeurodevelopmentalDisorder"
+    },
+    {
+      "name_given": "healthy controls (Alzheimer's disease)",
+      "description": "Healthy individuals without Alzheimer's disease.",
+      "number": 20,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with mild cognitive impairment",
+      "description": "Patients diagnosed with mild cognitive impairment.",
+      "number": 28,
+      "cv_term": "NeurodevelopmentalDisorder"
+    },
+    {
+      "name_given": "healthy controls (MCI)",
+      "description": "Healthy individuals without mild cognitive impairment.",
+      "number": 28,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "chimpanzees",
+      "description": "Adult chimpanzees used for comparative brain connectivity analysis.",
+      "number": 22,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "humans",
+      "description": "Adult humans used for comparative brain connectivity analysis.",
+      "number": 58,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "rhesus macaques",
+      "description": "Rhesus macaques used as an outgroup for comparative brain connectivity analysis.",
+      "number": 8,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

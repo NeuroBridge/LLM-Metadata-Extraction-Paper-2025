@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "ketamine users",
+      "description": "Subjects who are dependent on ketamine and meet the DSM-IV criteria for lifetime ketamine dependence.",
+      "number": 41,
+      "cv_term": "HarmfulUseofKetamine"
+    },
+    {
+      "name_given": "control subjects",
+      "description": "Drug-free healthy subjects with no history of neurological disorder or other psychiatric illness.",
+      "number": 89,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "chronic cocaine users",
+      "description": "Non-treatment seeking individuals with a history of cocaine use, meeting criteria for cocaine dependence or abuse.",
+      "number": 18,
+      "cv_term": "CocaineAbuse"
+    },
+    {
+      "name_given": "matched controls",
+      "description": "Healthy individuals with no history of drug or psychiatric illness, matched socio-demographically to the cocaine users.",
+      "number": 15,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

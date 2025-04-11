@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "NCs",
+      "description": "Normal controls from three different sites: Philadelphia, Sao Paulo, and Tianjin.",
+      "number": 150,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "SCZ patients",
+      "description": "Schizophrenia patients from three different sites: Philadelphia, Sao Paulo, and Tianjin.",
+      "number": 150,
+      "cv_term": "Schizophrenia"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "OMT patients",
+      "description": "Opioid-dependent patients undergoing opioid maintenance treatment, recruited from an outpatient program.",
+      "number": 19,
+      "cv_term": "OpioidAbuse"
+    },
+    {
+      "name_given": "healthy controls",
+      "description": "Volunteers with no indication of substance abuse disorder or other mental illness, recruited from advertisements.",
+      "number": 20,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

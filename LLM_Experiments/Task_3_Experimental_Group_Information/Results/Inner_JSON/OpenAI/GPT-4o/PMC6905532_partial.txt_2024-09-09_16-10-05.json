@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "healthy controls",
+      "description": "Participants without schizophrenia, used as a control group in the study.",
+      "number": 163,
+      "cv_term": "NoKnownDisorder"
+    },
+    {
+      "name_given": "patients with schizophrenia",
+      "description": "Participants diagnosed with schizophrenia, used to study the effects of the disorder on brain connectivity and polarization.",
+      "number": 151,
+      "cv_term": "Schizophrenia"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "CA",
+      "description": "Participants meeting DSM criteria for cannabis dependence",
+      "number": 30,
+      "cv_term": "CannabisAbuse"
+    },
+    {
+      "name_given": "controls",
+      "description": "Matched control group without cannabis dependence",
+      "number": 30,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "smokers",
+      "description": "Chronic cigarette smoking individuals",
+      "number": 68,
+      "cv_term": "NicotineAbuse"
+    },
+    {
+      "name_given": "controls",
+      "description": "Individuals who have smoked less than 10 cigarettes throughout their lifetime",
+      "number": 66,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

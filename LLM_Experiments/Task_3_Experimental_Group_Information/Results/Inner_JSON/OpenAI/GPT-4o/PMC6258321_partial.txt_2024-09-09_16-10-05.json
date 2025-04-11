@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "",
+      "description": "Patients with schizophrenia",
+      "number": 109,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "",
+      "description": "Healthy controls",
+      "number": 138,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "schizophrenia patients",
+      "description": "Individuals diagnosed with schizophrenia according to DSM-IV and ICD-10, assessed using PANSS, SAPS, and SANS, all on antipsychotic medication.",
+      "number": 42,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy individuals",
+      "description": "Individuals with no past or present psychiatric disorder, matched control group for the schizophrenia patients.",
+      "number": 42,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

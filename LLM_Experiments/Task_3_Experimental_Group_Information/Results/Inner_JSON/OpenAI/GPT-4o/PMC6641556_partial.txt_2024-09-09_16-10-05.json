@@ -1,0 +1,16 @@
+{
+  "SubjectGroups": [
+    {
+      "name_given": "Cocaine Users",
+      "description": "Non–treatment-seeking cocaine-dependent individuals",
+      "number": 25,
+      "cv_term": "CocaineAbuse"
+    },
+    {
+      "name_given": "Alcohol Users",
+      "description": "Non–treatment-seeking alcohol-dependent individuals",
+      "number": 24,
+      "cv_term": "AlcoholAbuse"
+    }
+  ]
+}

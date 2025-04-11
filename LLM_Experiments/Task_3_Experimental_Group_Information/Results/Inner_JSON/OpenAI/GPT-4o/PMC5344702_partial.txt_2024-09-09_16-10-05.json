@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "CUD",
+      "description": "Non-treatment seeking individuals with cocaine-use disorder",
+      "number": 26,
+      "cv_term": "CocaineAbuse"
+    },
+    {
+      "name_given": "HC",
+      "description": "Age- and gender-matched healthy comparison participants",
+      "number": 26,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}

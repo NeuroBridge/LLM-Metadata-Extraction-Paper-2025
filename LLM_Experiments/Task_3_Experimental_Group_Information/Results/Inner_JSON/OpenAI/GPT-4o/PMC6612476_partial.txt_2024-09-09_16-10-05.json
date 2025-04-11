@@ -1,0 +1,17 @@
+
+{
+  "SubjectGroups": [
+    {
+      "name_given": "schizophrenia patients",
+      "description": "Patients diagnosed with schizophrenia, recruited from inpatient and outpatient services, with confirmed diagnosis using the SCID.",
+      "number": 20,
+      "cv_term": "Schizophrenia"
+    },
+    {
+      "name_given": "healthy individuals",
+      "description": "Healthy control participants matched for age, gender, ethnicity, and parental education, with no current or past psychiatric illness.",
+      "number": 19,
+      "cv_term": "NoKnownDisorder"
+    }
+  ]
+}
