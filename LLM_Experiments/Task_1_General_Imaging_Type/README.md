@@ -16,8 +16,9 @@ Provided here are three XLSX files that summarize the results of the experiment:
 + `mriTypeExamplesGpt4oManualRun.xlsx` contains the results of the GPT-4o analyses (only).
 + `mriTypeExamplesStudentRaw.xlsx` contains the student annotators' labeling (only).
 + `mriTypeExamplesDetailedErrors.xlsx` contains all of the above in one sheet with all of the specific errors highlighted for human inspection. If you want to see the full results of the experiment in one place this is the file you want.
-  + This file has conditional formatting to highlight errors for the two types of LLM annotations and the student annotations based on the fixed ground truth/gold standard labels. These highlights color in cells that disagree with the ground truth.
-  + Note that also, for the two types of LLM results (with and without summary) either bold type or bold-italic type is used to highlight differences between these two conditions.
++ This file has conditional formatting to highlight errors for the two types of LLM annotations and the student annotations based on the fixed ground truth/gold standard labels:
+  + Any cells highlighted in red are cells for that condition that disagree with the ground truth.
+  + Additionally, for the two types of LLM results (with and without summary) bold-italic type is used to highlight differences between these two conditions.
 
 Note that the first column of each spreadsheet contains the list of PMCID numbers for the publications.
 
