@@ -1,0 +1,77 @@
+{
+  "sequence_type": "T1-weighted",
+  "T": {
+    "description": "Scanner Field Strength",
+    "unit": "Tesla",
+    "value": 3
+  },
+  "TR": {
+    "description": "Repetition Time",
+    "unit": "ms",
+    "value": 1950
+  },
+  "TE": {
+    "description": "Echo Time",
+    "unit": "ms",
+    "value": 2.26
+  },
+  "TI": {
+    "description": "Inversion Time (TI)",
+    "unit": "ms",
+    "value": 900
+  },
+  "flip_angle": {
+    "description": "Flip Angle",
+    "unit": "degrees",
+    "value": 7
+  },
+  "FOV": {
+    "description": "Field of View",
+    "unit": "mm",
+    "value": {
+      "x": null,
+      "y": null,
+      "z": null
+    }
+  },
+  "voxel_size": {
+    "description": "Voxel Size or In Plane Resolution",
+    "unit": "mm",
+    "value": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "matrix_size": {
+    "description": "Matrix Size",
+    "value": {
+      "x": 256,
+      "y": 224,
+      "z": null
+    }
+  },
+  "slice_thickness": {
+    "description": "Slice Thickness",
+    "unit": "mm",
+    "value": null
+  },
+  "acquisition_time": {
+    "description": "Acquisition Time",
+    "unit": "seconds",
+    "value": 241
+  },
+  "number_of_slices": {
+    "description": "Number of Slices",
+    "value": 176
+  },
+  "image_orientation": {
+    "description": "Orientation of the Scan",
+    "value": "sagittal",
+    "allowed_values": [
+      "axial",
+      "sagittal",
+      "coronal"
+    ]
+  }
+}
