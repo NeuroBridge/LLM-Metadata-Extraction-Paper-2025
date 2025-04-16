@@ -1,0 +1,21 @@
+Following the '###' delimiter below is the text of a scientific research paper from the field of psychiatry. This paper may, or may not, collect a structural brain image (often called a T1 image) as part of the study reported.
+
+If there is a structural MRI collected, please report the following parameters, ONLY if they are present:
+
++ T, the strength of the scanner, in units of Tesla
++ TR, the "repetition time" in units of milliseconds
++ TE, the "echo time" in units of milliseconds
++ TI, the "inversion time" in units of milliseconds
++ flip_angle, the "flip angle", in units of degrees
++ FOV, the "field of view" this can be 1, 2, or 3 numbers, each in millimeters
++ voxel_size, the size of each voxel in millimeters; this can be given as 1, 2, or 3 numbers which you should report as a list of the numbers
++ matrix_size, the size of the matrix, unitless, usually given as 2 or 3 numbers which you should report as a list of numbers
++ slice_thickness, the thickness of the slices in millimeters
++ acquisition_time, in units of seconds; IMPORTANT if given as minutes, please convert the minutes and seconds to seconds!
++ number_of_slices, self-explanatory, this is the number of slices collected in the scan
++ image_orientation, from the list: axial, sagittal, and coronal. (Axial is sometimes called "transverse" but always list either "transverse" or "axial" as "axial" in the JSON)
+
+You should only report the parameters that are EXPLICITLY LISTED in the text of the paper. Do NOT attempt to determine any parameters that are not EXPLICITLY listed!
+
+Your response should follow the following JSON prototype:
+
